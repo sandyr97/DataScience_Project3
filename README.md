@@ -6,6 +6,7 @@ Steps:
 a.	Movie
 b.	Links
 c.	Ratings
+d.  Tags
 2.	Clean data
 a.	Check for NAN values
 3.	Feature Engineering
